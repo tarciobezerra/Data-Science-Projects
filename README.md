@@ -1,34 +1,18 @@
 [![author](https://img.shields.io/badge/author-carlosfab-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src="banner.png" >
+  <img src="banner Github.png" >
 </p>
 
-# Carlos Melo
+# Tárcio Rodrigues
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
+Sou um cientista de dados novato, apesar de ter experiência em disciplinas como Governança de TI e Gestão de Segurança da Informação. Como cientista que sou, tenho experiência no método científico e acredito que esta é a forma correta de aprender e fazer Ciência de Dados (metodologia CRISP). Venho investindo no aprendizado de Data Science para dar respaudo à minha nova atuação no meu trabalho como professor de Sistemas de Apoio à Decisão e como Auditor de Finanças e Arrecadação.
 
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+Doutor em Ciência da Computação pela Universidade Federal de Campina Grande - UFCG, em combinação com a University of Southampton (UK) e University of Tartu (Estonia) (2015), Mestre em Ciência da Computação (1997) e Bacharel em Ciência da Computação também pela UFCG (1992). Sou professor do Instituto Federal de Alagoas desde 1996. Tenho experiência na área de Tecnologia da Informação, com ênfase em Infraestrutura de Redes de Computadores, em Gestão de Segurança da Informação e Governança de TI.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
-* [LinkedIn](https://www.linkedin.com/in/carlosfab)
-* [Medium](https://www.medium.com)
-
-
-## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
-
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* [LinkedIn](https://www.linkedin.com/in/tarcio-rodrigues-bezerra-4b2b6ab/?originalSubdomain=br)
 
 ---
 
